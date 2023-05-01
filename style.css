@@ -1,0 +1,104 @@
+.item-1{
+    background-color: pink;
+    border:2px solid black;
+    border-right:1px;
+    border-top:1px;
+    width:150px;
+    height:30px;
+    float:right;
+    text-align: center;
+}
+.item-2{
+    background-color: red;
+    border:2px solid black;
+    border-right:1px;
+    border-top:1px;
+    color:white;
+    width:150px;
+    height:30px;
+    float:right;
+    text-align: center;
+}
+.item-3{
+    background-color: lemonchiffon;
+    border:2px solid black;
+    border-right:1px;
+    border-top:1px;
+    width:150px;
+    height:30px;
+    float:right;
+    text-align: center;
+}
+p{
+    clear:right;
+    padding-top:10px;
+    padding-right:10px;
+}
+
+@media (max-width:767px){
+    .row{
+        margin:35px;
+    }
+    .col-1{
+        background-color: #817e7e;
+        border:2px solid black;
+        margin-bottom:30px;
+        padding:0px 0px 10px 10px;
+        float:left;
+        
+    }
+    .col-2{
+        background-color: #817e7e;
+        border:2px solid black;
+        margin-bottom:30px;
+        padding:0px 0px 10px 10px;
+        float:left;
+        
+    }
+    .col-3{
+        background-color: #817e7e;
+        border:2px solid black;
+        margin-bottom:30px;
+        padding:0px 0px 10px 10px;
+        float:left;
+        
+        
+    }
+    .item-1{
+        background-color: pink;
+        border:2px solid black;
+        border-right:1px;
+        border-top:1px;
+        width:150px;
+        height:30px;
+        float:right;
+        text-align: center;
+    }
+    .item-2{
+        background-color: red;
+        border:2px solid black;
+        border-right:1px;
+        border-top:1px;
+        color:white;
+        width:150px;
+        height:30px;
+        float:right;
+        text-align: center;
+    }
+    .item-3{
+        background-color: lemonchiffon;
+        border:2px solid black;
+        border-right:1px;
+        border-top:1px;
+        width:150px;
+        height:30px;
+        float:right;
+        text-align: center;
+    }
+    p{
+        clear:right;
+        padding-top:10px;
+        padding-right:10px;
+    }
+    }
+   
